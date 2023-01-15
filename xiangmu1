@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    
+  <style>
+    .box{
+        width: 600px;
+        height: 1200px;
+        margin: auto;
+        top:0;
+        right: 0;
+        bottom: 0;
+        text-align: center;
+ }
+</style>
+</head>
+<body>
+    <div>
+
+    </div>
+    <p>hello world !  </p>
+    <hr> 
+    <div class="box">  <h1>1233</h1>
+        <h2>资深程序员</h2>
+       <img src="./姜志烨.jpg" alt="图片" width="200px">
+        <br>
+        <a href="https://www.baidu.com" target="_blank">百度</a> 
+     </div>
+             <label for="name">账号<<input type="password" /label>
+             <input type="text" name="" id="">
+             <input type="email"/>
+             <input type="password" />
+             <input type="radio" id="radio" value="radio" />
+            <label for="radio">这是一个选项</label>
+           
+</body>
+</html>
